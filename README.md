@@ -1,6 +1,4 @@
-¡Claro! Basándome en tu proyecto de tienda de camisetas deportivas **"The Jersey's World"**, aquí tienes un `README.md` bien estructurado para tu repositorio Git. Este archivo ayuda a documentar el propósito, instalación y uso de tu aplicación.
 
-```markdown
 # The Jersey's World 🏆
 
 ## Descripción 📌
